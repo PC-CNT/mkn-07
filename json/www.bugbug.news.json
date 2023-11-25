@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "www.bugbug.news",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "age-verification",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "true"
+  }
+]

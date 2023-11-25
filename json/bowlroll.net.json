@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "bowlroll.net",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "r18_over",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": true,
+    "storeId": null,
+    "value": "true"
+  }
+]

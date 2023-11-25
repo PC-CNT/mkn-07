@@ -1,0 +1,14 @@
+[
+  {
+    "domain": ".jp.iqos.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "iqos-age-verified",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "yes"
+  }
+]

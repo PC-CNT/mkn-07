@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "www.luxardo.it",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "age_gate",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": true,
+    "storeId": null,
+    "value": "1"
+  }
+]

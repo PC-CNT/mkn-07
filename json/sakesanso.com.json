@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "sakesanso.com",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "age-checked",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "1"
+  }
+]

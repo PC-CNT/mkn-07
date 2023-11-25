@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "www.e-hakutsuru.com",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "_ag",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "1"
+  }
+]

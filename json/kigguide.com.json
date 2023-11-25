@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "kigguide.com",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": true,
+    "storeId": null,
+    "value": "accepted"
+  }
+]

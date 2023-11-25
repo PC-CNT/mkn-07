@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "archiveofourown.org",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "view_adult",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": true,
+    "storeId": null,
+    "value": "true"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "domain": ".asahibeer.co.jp",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "drinkAge",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": true,
+    "storeId": null,
+    "value": "allow"
+  }
+]

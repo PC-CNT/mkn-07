@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "chemical-collective.com",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "adult",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "1"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "domain": ".syosetu.org",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "over18",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "off"
+  }
+]

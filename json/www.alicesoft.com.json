@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "www.alicesoft.com",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "modal",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "off"
+  }
+]
