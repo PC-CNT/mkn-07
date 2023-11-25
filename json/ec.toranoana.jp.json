@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "ec.toranoana.jp",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "adflg",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": null,
+    "value": "0"
+  }
+]

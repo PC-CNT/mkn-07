@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "store.epicgames.com",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "HasAcceptedAgeGates",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": true,
+    "storeId": null,
+    "value": "CERO%3A18"
+  }
+]

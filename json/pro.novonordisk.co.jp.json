@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "pro.novonordisk.co.jp",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "disclaimer_cookie_hcp_experience",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "never"
+  }
+]

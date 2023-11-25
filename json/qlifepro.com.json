@@ -1,0 +1,14 @@
+[
+  {
+    "domain": ".qlifepro.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "usercategory",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "other"
+  }
+]

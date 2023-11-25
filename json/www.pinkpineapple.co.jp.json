@@ -1,0 +1,15 @@
+[
+  {
+    "domain": "www.pinkpineapple.co.jp",
+    "expirationDate": 1712450380,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "AGEAUTH",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "1"
+  }
+]

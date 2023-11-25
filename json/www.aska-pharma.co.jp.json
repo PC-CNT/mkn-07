@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "www.aska-pharma.co.jp",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "medical_agree",
+    "path": "/iryouiyaku/",
+    "sameSite": null,
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "true"
+  }
+]

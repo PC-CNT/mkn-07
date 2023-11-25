@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "www.clubjt.jp",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "adult_certificated",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "true"
+  }
+]
