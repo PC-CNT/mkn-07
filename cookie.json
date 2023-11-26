@@ -1,5 +1,5 @@
 [
-{
+  {
     "domain": ".asahibeer.co.jp",
     "hostOnly": false,
     "httpOnly": false,
@@ -11,5 +11,18 @@
     "storeId": "1",
     "value": "allow",
     "id": 1
-}
+  },
+  {
+    "domain": "www.clubjt.jp",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "adult_certificated",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "true",
+    "id": 2
+  }
 ]
