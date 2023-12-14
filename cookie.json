@@ -37,5 +37,18 @@
     "storeId": "0",
     "value": "1",
     "id": 8
+  },
+  {
+    "domain": "bowlroll.net",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "r18_over",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": true,
+    "storeId": "1",
+    "value": "true",
+    "id": 2
   }
 ]
