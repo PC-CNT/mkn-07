@@ -50,5 +50,18 @@
     "storeId": "1",
     "value": "true",
     "id": 2
+  },
+  {
+    "domain": "www.luxardo.it",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "age_gate",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "1",
+    "id": 1
   }
 ]
