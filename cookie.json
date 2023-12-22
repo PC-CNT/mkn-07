@@ -89,5 +89,18 @@
     "storeId": "0",
     "value": "other",
     "id": 8
+  },
+  {
+    "domain": "ec.toranoana.jp",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "adflg",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "0",
+    "id": 4
   }
 ]
