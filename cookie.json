@@ -63,5 +63,31 @@
     "storeId": "0",
     "value": "1",
     "id": 1
+  },
+  {
+    "domain": "pro.novonordisk.co.jp",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "disclaimer_cookie_hcp_experience",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "never",
+    "id": 7
+  },
+  {
+    "domain": "pro.novonordisk.co.jp",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "disclaimer_cookie_profession",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "other",
+    "id": 8
   }
 ]
