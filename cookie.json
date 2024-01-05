@@ -128,5 +128,18 @@
     "storeId": "1",
     "value": "1",
     "id": 7
-  }
+  },
+  {
+    "domain": "store.epicgames.com",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "HasAcceptedAgeGates",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": true,
+    "storeId": "1",
+    "value": "CERO%3A18",
+    "id": 5
+}
 ]
