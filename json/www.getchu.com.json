@@ -1,0 +1,15 @@
+[
+    {
+        "domain": "www.getchu.com",
+        "expirationDate": 1709829893.360584,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "getchu_adalt_flag",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "getchu.com"
+    }
+]
