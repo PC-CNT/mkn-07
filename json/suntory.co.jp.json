@@ -1,0 +1,14 @@
+[
+    {
+        "domain": ".suntory.co.jp",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "o20",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "true"
+    }
+]
