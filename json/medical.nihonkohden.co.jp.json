@@ -1,0 +1,14 @@
+[
+    {
+        "domain": "medical.nihonkohden.co.jp",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "iryo",
+        "path": "/iryo",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "true"
+    }
+]
