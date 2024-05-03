@@ -1,0 +1,14 @@
+[
+    {
+        "domain": "rule34.paheal.net",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "ui-tnc-agreed",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "true"
+    }
+]
