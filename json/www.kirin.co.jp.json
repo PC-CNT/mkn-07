@@ -1,0 +1,14 @@
+[
+  {
+    "domain": ".kirin.co.jp",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "agechkover",
+    "path": "/",
+    "sameSite": null,
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "agechkover"
+  }
+]
