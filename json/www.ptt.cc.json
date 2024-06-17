@@ -1,0 +1,14 @@
+[
+    {
+        "domain": "www.ptt.cc",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "over18",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "1"
+    }
+]
