@@ -1,0 +1,14 @@
+[
+    {
+        "domain": ".deadbydaylight.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "deadbydaylight-2020-age-gate-popup",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "true"
+    }
+]
