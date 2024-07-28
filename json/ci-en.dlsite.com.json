@@ -1,0 +1,14 @@
+[
+    {
+        "domain": ".ci-en.dlsite.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "accepted_rating",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "r18"
+    }
+]
