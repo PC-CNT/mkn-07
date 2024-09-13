@@ -1,0 +1,14 @@
+[
+    {
+        "domain": "www.data-index.co.jp",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "rulesCookie",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "true"
+    }
+]
