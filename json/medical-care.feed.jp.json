@@ -1,0 +1,14 @@
+[
+    {
+        "domain": "medical-care.feed.jp",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "product_view_confirm",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "true"
+    }
+]
