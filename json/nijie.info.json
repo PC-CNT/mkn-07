@@ -1,0 +1,14 @@
+[
+    {
+        "domain": ".nijie.info",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "R18",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    }
+]
