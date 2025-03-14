@@ -1,0 +1,14 @@
+[
+    {
+        "domain": "www.santen.co.jp",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "smc_medical_personnel_checked",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "true"
+    }
+]
